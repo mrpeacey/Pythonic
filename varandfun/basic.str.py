@@ -11,3 +11,6 @@ print(a,b);
 #
 first,second=x.split();#splits into two part
 print("hello",first);
+#
+print(f"my namme is {first} and my last name is {second}");
+print("my name is",first,"my last name is",second);
