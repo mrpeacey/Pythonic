@@ -1,7 +1,7 @@
 #Asking input to user
 x=input("Enter your name:");
 #Printing the output
-print("hello",x,end=" ",sep="  ");#bydefault the print function takes to the new line
+print("hello",x,end=" ",sep="  ",);#bydefault the print function takes to the new line
 print("Is already in the new line");
 print(type("hello"));
 print(x.strip().upper());
