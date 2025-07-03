@@ -7,5 +7,4 @@ with open("hello.txt","r") as file:
     all=file.read();
     print(all);
 with open("name.txt","r") as file:
-
     print(sorted(file));
